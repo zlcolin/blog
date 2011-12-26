@@ -1,1 +1,12 @@
 a file at colin branch
+
+change 1
+
+change 2
+
+change 3
+
+
+bug fixing before release
+
+
