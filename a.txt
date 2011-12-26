@@ -6,3 +6,7 @@ change 2
 
 change 3
 
+
+bug fixing before release
+
+
