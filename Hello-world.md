@@ -1,6 +1,4 @@
-# hello world!
-
-This is my first blog post.
+#hello world!
 
 Check out some resources:
 
