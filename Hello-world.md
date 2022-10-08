@@ -7,4 +7,6 @@ Check out some resources:
 - [antoniomika](https://antoniomika.me)
 - [erock.io](https://erock.io)
 
+- [5 Free and Open-Source Figma Alternatives](https://itsfoss.com/figma-alternatives/)
+
 Cya!
